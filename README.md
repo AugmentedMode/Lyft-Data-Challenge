@@ -1,5 +1,10 @@
 # Lyft-Data-Challenge
 
+## Notes:
+
+[Main Informational Site](https://lyftdatachallenge.splashthat.com/) <br>
+[Challenge FAQ](https://docs.google.com/document/d/1lrCr1d9DPKukdpsLshmDiVGuzgRkpAi9vmHevZGNchk/edit)
+
 ## Promt:
 
 #### After exploring and analyzing the data, please:
@@ -12,13 +17,6 @@ c. Do all drivers act alike? Are there specific segments of drivers that generat
 value for Lyft than the average driver? <br>
 d. What actionable recommendations are there for the business? <br>
 3. Prepare and submit a writeup of your findings for consumption by a cross-functional audience.
-
-
-## Notes:
-
-[Main Informational Site](https://lyftdatachallenge.splashthat.com/) <br>
-[Challenge FAQ](https://docs.google.com/document/d/1lrCr1d9DPKukdpsLshmDiVGuzgRkpAi9vmHevZGNchk/edit)
-
 
 #### Challenge due September 15th, 2019!
 
