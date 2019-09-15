@@ -5,7 +5,7 @@
 [Main Informational Site](https://lyftdatachallenge.splashthat.com/) <br>
 [Challenge FAQ](https://docs.google.com/document/d/1lrCr1d9DPKukdpsLshmDiVGuzgRkpAi9vmHevZGNchk/edit)
 
-## Promt:
+## Prompt:
 
 #### After exploring and analyzing the data, please:
 1. Recommend a Driver's Lifetime Value (i.e., the value of a driver to Lyft over the entire projected lifetime of a driver).
