@@ -1,6 +1,7 @@
 # Lyft-Data-Challenge
 
 ## Promt:
+
 #### After exploring and analyzing the data, please:
 1. Recommend a Driver's Lifetime Value (i.e., the value of a driver to Lyft over the entire projected lifetime of a driver).
 2. Please answer the following questions: <br>
@@ -13,7 +14,13 @@ d. What actionable recommendations are there for the business? <br>
 3. Prepare and submit a writeup of your findings for consumption by a cross-functional audience.
 
 
-#### Challenge due September 15th, 2019
+## Notes:
+
+[Main Informational Site](https://lyftdatachallenge.splashthat.com/) <br>
+[Challenge FAQ](https://docs.google.com/document/d/1lrCr1d9DPKukdpsLshmDiVGuzgRkpAi9vmHevZGNchk/edit)
+
+
+#### Challenge due September 15th, 2019!
 
 #### Contributers
 * Jacob Lebowitz
