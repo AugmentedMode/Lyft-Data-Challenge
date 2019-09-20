@@ -18,7 +18,7 @@ value for Lyft than the average driver? <br>
 d. What actionable recommendations are there for the business? <br>
 3. Prepare and submit a writeup of your findings for consumption by a cross-functional audience.
 
-#### Challenge due September 15th, 2019!
+#### Challenge due September 15th, 2019!!
 
 #### Contributers
 * Jacob Lebowitz
