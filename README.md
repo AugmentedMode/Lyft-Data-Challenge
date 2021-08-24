@@ -1,5 +1,7 @@
 # Lyft-Data-Challenge
 
+Selected as 1 of 16 teams out of 302 teams to compete in the final round at Lyft HQ in San Francisco
+
 ## Notes:
 
 [Main Informational Site](https://lyftdatachallenge.splashthat.com/) <br>
